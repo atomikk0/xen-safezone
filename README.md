@@ -18,4 +18,4 @@
 
 ## [PREVIEW VIDEO](https://www.youtube.com/watch?v=W43giTZXL7A&feature=youtu.be)
 ## [GITBOOK](https://xen-store.gitbook.io/xen-store-docs/xen-safezone)
-## [TEBEX LINK](https://xen.tebex.io/package/6766200)
+## [TEBEX LINK](https://xenshop.xyz)
