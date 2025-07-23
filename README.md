@@ -16,6 +16,6 @@
 
 # Links
 
-## [PREVIEW VIDEO](https://www.youtube.com/watch?v=W43giTZXL7A&feature=youtu.be)
+## [PREVIEW VIDEO](https://www.youtube.com/watch?v=CEs4nMCKIL0)
 ## [GITBOOK](https://xen-store.gitbook.io/xen-store-docs/xen-safezone)
 ## [TEBEX LINK](https://xenshop.xyz)
